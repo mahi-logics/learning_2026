@@ -16,4 +16,4 @@ int main(){
 
 // "int / int = int" →→ Integer Devision
 // 9(int) / 10(int) = 0 (int)
-// 9 / 10 = 0.9   but it truncated '.9' because 9 and 10 both are integer so their division will be a integer (no decemel part is not allowed)
+// 9 / 10 = 0.9   but it truncated '.9' because 9 and 10 both are integer so their division will be an integer (no decemel part is allowed)
